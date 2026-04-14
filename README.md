@@ -27,7 +27,7 @@
 
 <div align="center">
   <h3>🌸 Suyeon's Contributions 🌸</h3>
-  <img src="https://ghchart.rshah.org/FF8FAB/yeony3436-aa" alt="yeony3436-aa's Pink Github Chart" />
+  <img src="https://ghchart.rshah.org/FF8FAB/yeony3436-aa?v=1" alt="yeony3436-aa's Pink Github Chart" />
 </div>
 
 <br>
