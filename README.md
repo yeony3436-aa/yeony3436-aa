@@ -57,14 +57,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://my-github-status-wine.vercel.app/api?username=yeony3436-aa&show_icons=true&title_color=e75480&icon_color=ff8fab&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&hide_border=false&cache_seconds=86400" height="155"/>
+  <img src="https://my-github-stats-wine.vercel.app/api?username=yeony3436-aa&show_icons=true&title_color=e75480&icon_color=ff8fab&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&hide_border=false&cache_seconds=86400" height="155"/>
   &nbsp;
-  <img src="https://my-github-status-wine.vercel.app/api/top-langs/?username=yeony3436-aa&layout=compact&title_color=e75480&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&langs_count=6&cache_seconds=86400" height="155"/>
+  <img src="https://my-github-stats-wine.vercel.app/api/top-langs/?username=yeony3436-aa&layout=compact&title_color=e75480&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&langs_count=6&cache_seconds=86400" height="155"/>
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e75480,50:FF8FAB,100:FFB7C5&height=120&section=footer" width="100%"/>
 </div>
