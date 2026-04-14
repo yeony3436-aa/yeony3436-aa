@@ -57,9 +57,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://my-github-stats-wine.vercel.app/api?username=yeony3436-aa&show_icons=true&title_color=e75480&icon_color=ff8fab&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&hide_border=false&cache_seconds=86400" height="155"/>
+  <img src="https://my-github-stats-wine.vercel.app/api?username=yeony3436-aa&show_icons=true&title_color=e75480&icon_color=ff8fab&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&hide_border=false&cache_seconds=86400&v=1" height="155"/>
   &nbsp;
-  <img src="https://my-github-stats-wine.vercel.app/api/top-langs/?username=yeony3436-aa&layout=compact&title_color=e75480&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&langs_count=6&cache_seconds=86400" height="155"/>
+  <img src="https://my-github-stats-wine.vercel.app/api/top-langs/?username=yeony3436-aa&layout=compact&title_color=e75480&text_color=555555&bg_color=fff0f5&border_color=ffc2d1&border_radius=12&langs_count=6&cache_seconds=86400&v=1" height="155"/>
 </div>
 
 ---
