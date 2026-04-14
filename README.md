@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/React-ffd6e7?style=flat-square&logo=react&logoColor=8b3a3a"/>
   <img src="https://img.shields.io/badge/FastAPI-ffc8dd?style=flat-square&logo=fastapi&logoColor=8b3a3a"/>
   <img src="https://img.shields.io/badge/ROS2-ffc2d1?style=flat-square&logo=ros&logoColor=8b3a3a"/>
-  <img src="https://img.shields.io/badge/AWS-ffe0eb?style=flat-square&logo=amazonaws&logoColor=8b3a3a"/>
+  <img src="https://img.shields.io/badge/AWS-ffe0eb?style=flat-square&logo=amazon&logoColor=8b3a3a&v=1"/>
   <img src="https://img.shields.io/badge/MySQL-ffd6e4?style=flat-square&logo=mysql&logoColor=8b3a3a"/>
   <img src="https://img.shields.io/badge/PostgreSQL-ffd6e0?style=flat-square&logo=postgresql&logoColor=8b3a3a"/>
 </div>
